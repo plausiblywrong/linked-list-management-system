@@ -1,0 +1,15 @@
+
+LINKED LIST MANAGEMENT SYSTEM - SAMPLE OUTPUT
+
+Singly Linked List
+Before sort:  40 -> 10 -> 30 -> 20 -> 50 -> NULL
+After sort:   10 -> 20 -> 30 -> 40 -> 50 -> NULL
+After reverse: 50 -> 40 -> 30 -> 20 -> 10 -> NULL
+Search 30: Found at position 3.
+Count: 5
+
+Doubly Linked List
+Forward:  NULL <-> 10 <-> 20 <-> 30 <-> 40 <-> NULL
+Backward: NULL <-> 40 <-> 30 <-> 20 <-> 10 <-> NULL
+After removing duplicate 20:
+Forward:  NULL <-> 10 <-> 20 <-> 30 <-> 40 <-> NULL
